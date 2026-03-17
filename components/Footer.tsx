@@ -68,6 +68,17 @@ export function Footer() {
           <p className="text-xs">
             Radnička 16, Srebrenik 75350, BiH
           </p>
+          <p className="text-xs">
+            Napravio sa ❤️{" "}
+            <a
+              href="https://www.fariszenunovic.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-400 hover:text-white transition-colors"
+            >
+              Faris Zenunović
+            </a>
+          </p>
         </div>
       </div>
     </footer>
