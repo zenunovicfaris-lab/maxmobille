@@ -13,7 +13,7 @@ export function ProcessTimeline() {
             Kako funkcioniše proces
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Od vašeg upita do isporuke – transparentno, pouzdano, efikasno.
+            Od vašeg upita do isporuke transparentno, pouzdano, efikasno.
           </p>
         </div>
 

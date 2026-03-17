@@ -85,7 +85,7 @@ export function ContactForm() {
             rows={5}
             value={form.poruka}
             onChange={(e) => setForm({ ...form, poruka: e.target.value })}
-            placeholder="Opišite šta trebate uvesti – proizvod, količinu, budžet..."
+            placeholder="Opišite šta trebate uvesti proizvod, količinu, budžet..."
             className="w-full border border-gray-200 rounded-lg px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none"
           />
         </div>

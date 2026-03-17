@@ -6,7 +6,7 @@ export function JsonLd() {
     "@type": "LocalBusiness",
     name: BRAND.name,
     description:
-      "Uvoz robe iz Kine za BiH i Balkan – pronalaženje, kontrola kvaliteta, logistika, carina i isporuka.",
+      "Uvoz robe iz Kine za BiH i Balkan pronalaženje, kontrola kvaliteta, logistika, carina i isporuka.",
     address: {
       "@type": "PostalAddress",
       streetAddress: "Radnička 16",

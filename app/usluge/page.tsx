@@ -3,7 +3,7 @@ import { ServicesDetailed } from "@/components/ServicesDetailed";
 import { FooterCTA } from "@/components/FooterCTA";
 
 export const metadata: Metadata = {
-  title: "Usluge – MaxMobille | Uvoz robe iz Kine",
+  title: "Usluge MaxMobille | Uvoz robe iz Kine",
   description:
     "Kompletne usluge uvoza iz Kine: pronalaženje proizvođača, pregovaranje, kontrola kvaliteta, logistika, carina i isporuka na Balkanu.",
 };
@@ -17,7 +17,7 @@ export default function UslugeePage() {
             Naše usluge
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Svaki korak uvoza iz Kine je pod našom kontrolom – od pronalaženja
+            Svaki korak uvoza iz Kine je pod našom kontrolom od pronalaženja
             dobavljača do isporuke na vaša vrata.
           </p>
         </div>

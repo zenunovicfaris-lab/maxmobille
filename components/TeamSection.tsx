@@ -26,7 +26,7 @@ const TEAM = [
     phone: BRAND.ellen.phone,
     whatsapp: BRAND.ellen.whatsapp,
     description:
-      "Ellen je naša menadžerica nabave sa sjedištem u Kini. Direktno komunicira s fabrikama, vrši inspekcije robe i prati produkciju – osiguravajući da sve bude prema dogovoru.",
+      "Ellen je naša menadžerica nabave sa sjedištem u Kini. Direktno komunicira s fabrikama, vrši inspekcije robe i prati produkciju osiguravajući da sve bude prema dogovoru.",
     avatar: "E",
     color: "bg-indigo-600",
     image: "/images/ellen.jpg",
@@ -57,7 +57,7 @@ function MemberAvatar({
     <div className="w-20 h-20 rounded-full overflow-hidden mx-auto mb-5 ring-4 ring-blue-100">
       <Image
         src={image}
-        alt={`${name} – MaxMobille tim`}
+        alt={`${name} MaxMobille tim`}
         width={80}
         height={80}
         className="object-cover w-full h-full"
@@ -77,7 +77,7 @@ export function TeamSection() {
             Naš tim
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Dva kontinenta, jedna misija – vaša roba sigurno i na vrijem.
+            Dva kontinenta, jedna misija vaša roba sigurno i na vrijem.
           </p>
         </div>
 
@@ -92,7 +92,7 @@ export function TeamSection() {
               transition={{ delay: index * 0.15, duration: 0.6 }}
               className="bg-gray-50 rounded-2xl p-8 text-center border border-gray-100"
             >
-              {/* Avatar – photo or letter fallback */}
+              {/* Avatar photo or letter fallback */}
               <MemberAvatar
                 image={member.image}
                 avatar={member.avatar}

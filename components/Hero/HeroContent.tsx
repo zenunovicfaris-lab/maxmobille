@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { MessageCircle, Phone, ArrowDown } from "lucide-react";
 import { BRAND } from "@/lib/constants";
 
-// Pure content layer – sits above the WorldMapSVG background
+// Pure content layer sits above the WorldMapSVG background
 export function HeroContent() {
   return (
     <>

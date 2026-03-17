@@ -1,20 +1,20 @@
 export const BRAND = {
   name: "MaxMobille d.o.o.",
   slogan:
-    "MaxMobille uvozi robu iz Kine za Balkan – od fabrike do isporuke, uz tim u Kini i potpunu sigurnost.",
+    "MaxMobille uvozi robu iz Kine za Balkan od fabrike do isporuke, uz tim u Kini i potpunu sigurnost.",
   address: "Radnička 16, Srebrenik (75350)",
   email: "hari@kinauvoz.com",
   harun: {
     name: "Harun",
     phone: "+387 61 797 777",
     whatsapp: "38761797777",
-    role: "Osnivač & Direktor – Balkan",
+    role: "Osnivač & Direktor Balkan",
   },
   ellen: {
     name: "Ellen",
     phone: "+86 139 2484 5257",
     whatsapp: "8613924845257",
-    role: "Menadžer nabave – Kina",
+    role: "Menadžer nabave Kina",
   },
 };
 
@@ -50,7 +50,7 @@ export const SERVICES = [
     title: "Kontrola kvaliteta",
     short: "Inspekcija robe prije ukrcaja u Kini.",
     description:
-      "Ellen i naš kineski tim vrše detaljnu inspekciju robe u fabrici – provjera uzoraka, mjerenja, testiranja i fotografska dokumentacija. Roba koja ne zadovoljava vaše standarde ne napušta Kinu.",
+      "Ellen i naš kineski tim vrše detaljnu inspekciju robe u fabrici provjera uzoraka, mjerenja, testiranja i fotografska dokumentacija. Roba koja ne zadovoljava vaše standarde ne napušta Kinu.",
   },
   {
     id: "logistika",
@@ -113,7 +113,7 @@ export const PROCESS_STEPS = [
     number: "06",
     title: "Isporuka",
     description:
-      "Roba stiže na vašu adresu zajedno s kompletnom dokumentacijom. Vaš posao završen – naš posao obavljen.",
+      "Roba stiže na vašu adresu zajedno s kompletnom dokumentacijom. Vaš posao završen naš posao obavljen.",
   },
 ];
 
@@ -130,7 +130,7 @@ export const PRODUCTS = [
     id: "fitness",
     title: "Fitness oprema",
     description:
-      "Kompletan asortiman fitness opreme – od kardio mašina do slobodnih tegova i kablovskih stanica. Idealno za fitness centre, hotele i korporativne sale.",
+      "Kompletan asortiman fitness opreme od kardio mašina do slobodnih tegova i kablovskih stanica. Idealno za fitness centre, hotele i korporativne sale.",
     image: "/images/fitness.jpg",
     alt: "Fitness oprema uvoz iz Kine za Balkan",
   },
@@ -185,7 +185,7 @@ export const FAQ_ITEMS = [
   {
     question: "Koja je minimalna količina narudžbe?",
     answer:
-      "Nema fiksnog minimuma – radimo i na manjim narudžbama i na velikim kontejnerskim pošiljkama. Za male količine kombiniramo pošiljke (LCL) kako bi troškovi bili prihvatljivi. Kontaktirajte nas sa vašim specifičnim zahtjevom.",
+      "Nema fiksnog minimuma radimo i na manjim narudžbama i na velikim kontejnerskim pošiljkama. Za male količine kombiniramo pošiljke (LCL) kako bi troškovi bili prihvatljivi. Kontaktirajte nas sa vašim specifičnim zahtjevom.",
   },
   {
     question: "Kako se vrši plaćanje?",
@@ -200,7 +200,7 @@ export const FAQ_ITEMS = [
   {
     question: "Da li imate vlastiti tim u Kini?",
     answer:
-      "Da – Ellen je naš menadžer nabave sa sjedištem u Kini. Ona direktno komunicira s fabrikama, vrši inspekcije i prati produkciju. To je naša ključna prednost u odnosu na agente koji rade samo online.",
+      "Da Ellen je naš menadžer nabave sa sjedištem u Kini. Ona direktno komunicira s fabrikama, vrši inspekcije i prati produkciju. To je naša ključna prednost u odnosu na agente koji rade samo online.",
   },
   {
     question: "Koje vrste robe možete uvesti?",
@@ -210,21 +210,21 @@ export const FAQ_ITEMS = [
   {
     question: "Da li pomažete s carinjenjem?",
     answer:
-      "Da – carina i dokumentacija su dio naše usluge. Surađujemo s licenciranim carinskim agentima u BiH koji znaju sve specifičnosti uvoza iz Kine. Pripremamo kompletnu dokumentaciju: fakture, certifikate porijekla, packing liste i carinske deklaracije.",
+      "Da carina i dokumentacija su dio naše usluge. Surađujemo s licenciranim carinskim agentima u BiH koji znaju sve specifičnosti uvoza iz Kine. Pripremamo kompletnu dokumentaciju: fakture, certifikate porijekla, packing liste i carinske deklaracije.",
   },
   {
     question: "Mogu li pratiti gdje se nalazi moja pošiljka?",
     answer:
-      "Apsolutno. Dajemo vam tracking broj i pratite pošiljku u realnom vremenu putem online sustava. Pored toga, redovno vas informiramo o statusu – niste sami u tom procesu.",
+      "Apsolutno. Dajemo vam tracking broj i pratite pošiljku u realnom vremenu putem online sustava. Pored toga, redovno vas informiramo o statusu niste sami u tom procesu.",
   },
   {
     question: "Radite li samo za BiH ili cijeli Balkan?",
     answer:
-      "Radimo za cijeli Balkan – BiH, Srbiju, Hrvatsku, Sloveniju, Crnu Goru, Sjevernu Makedoniju i Albaniju. Naše iskustvo u carinjenju pokriva različite regulatorne okvire regije.",
+      "Radimo za cijeli Balkan BiH, Srbiju, Hrvatsku, Sloveniju, Crnu Goru, Sjevernu Makedoniju i Albaniju. Naše iskustvo u carinjenju pokriva različite regulatorne okvire regije.",
   },
   {
     question: "Kako započeti saradnju?",
     answer:
-      "Pošaljite nam poruku na WhatsApp (+387 61 797 777) ili email (hari@kinauvoz.com). Opišite što trebate – proizvod, količinu, budžet. U roku od 24 sata ćemo vam dati odgovor i besplatnu inicijalnu procjenu.",
+      "Pošaljite nam poruku na WhatsApp (+387 61 797 777) ili email (hari@kinauvoz.com). Opišite što trebate proizvod, količinu, budžet. U roku od 24 sata ćemo vam dati odgovor i besplatnu inicijalnu procjenu.",
   },
 ];

@@ -18,7 +18,7 @@ export function FooterCTA() {
             Spremni za uvoz iz Kine?
           </h2>
           <p className="text-blue-200 text-lg mb-10 max-w-2xl mx-auto">
-            Kontaktirajte Haruna danas – besplatna konzultacija, bez obaveza.
+            Kontaktirajte Haruna danas besplatna konzultacija, bez obaveza.
             Odgovorimo u roku od 24 sata.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

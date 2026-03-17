@@ -3,7 +3,7 @@ import { ContactForm } from "@/components/ContactForm";
 import { ContactInfo } from "@/components/ContactInfo";
 
 export const metadata: Metadata = {
-  title: "Kontakt – MaxMobille | Uvoz robe iz Kine za Balkan",
+  title: "Kontakt MaxMobille | Uvoz robe iz Kine za Balkan",
   description:
     "Kontaktirajte MaxMobille za uvoz iz Kine. Dostupni smo na WhatsApp i email. Srebrenik, BiH.",
 };

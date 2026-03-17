@@ -5,12 +5,12 @@ import { Footer } from "@/components/Footer";
 import { WhatsAppFloat } from "@/components/WhatsAppFloat";
 
 export const metadata: Metadata = {
-  title: "MaxMobille – Uvoz robe iz Kine za Balkan | Kompletna logistika",
+  title: "MaxMobille Uvoz robe iz Kine za Balkan | Kompletna logistika",
   description:
     "Uvoz iz Kine za BiH i Balkan: pronalaženje, kvaliteta, transport, carina. Tim u Kini + Balkan.",
   keywords: "uvoz iz Kine, logistika Balkan, MaxMobille, uvoz robe BiH, kina uvoz",
   openGraph: {
-    title: "MaxMobille – Uvoz robe iz Kine za Balkan",
+    title: "MaxMobille Uvoz robe iz Kine za Balkan",
     description:
       "Uvoz iz Kine za BiH i Balkan: pronalaženje, kvaliteta, transport, carina.",
     type: "website",
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "MaxMobille – Uvoz robe iz Kine za Balkan",
+    title: "MaxMobille Uvoz robe iz Kine za Balkan",
     description: "Uvoz iz Kine za BiH i Balkan: pronalaženje, kvaliteta, transport, carina.",
   },
 };

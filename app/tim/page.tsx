@@ -3,9 +3,9 @@ import { TeamFull } from "@/components/TeamFull";
 import { FooterCTA } from "@/components/FooterCTA";
 
 export const metadata: Metadata = {
-  title: "Naš tim – MaxMobille | Stručnjaci za uvoz iz Kine",
+  title: "Naš tim MaxMobille | Stručnjaci za uvoz iz Kine",
   description:
-    "Upoznajte tim MaxMobille: Harun u Bosni i Ellen u Kini – vaši pouzdani partneri za uvoz.",
+    "Upoznajte tim MaxMobille: Harun u Bosni i Ellen u Kini vaši pouzdani partneri za uvoz.",
 };
 
 export default function TimPage() {
@@ -17,7 +17,7 @@ export default function TimPage() {
             Naš tim
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Dva kontinenta, jedan cilj – vaša roba stigla sigurno i na vrijeme.
+            Dva kontinenta, jedan cilj vaša roba stigla sigurno i na vrijeme.
           </p>
         </div>
       </div>

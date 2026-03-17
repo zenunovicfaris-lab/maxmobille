@@ -3,7 +3,7 @@ import { FAQAccordion } from "@/components/FAQAccordion";
 import { FooterCTA } from "@/components/FooterCTA";
 
 export const metadata: Metadata = {
-  title: "FAQ – MaxMobille | Česta pitanja o uvozu iz Kine",
+  title: "FAQ MaxMobille | Česta pitanja o uvozu iz Kine",
   description:
     "Odgovori na najčešća pitanja o uvozu robe iz Kine za BiH i Balkan: rokovi, količine, plaćanje, kvalitet.",
 };

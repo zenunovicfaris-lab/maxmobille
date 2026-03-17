@@ -31,7 +31,7 @@ export function ServicesGrid() {
             Kompletna usluga uvoza
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Svaki korak je pod našom kontrolom – od fabrike u Kini do vaše
+            Svaki korak je pod našom kontrolom od fabrike u Kini do vaše
             lokacije.
           </p>
         </div>

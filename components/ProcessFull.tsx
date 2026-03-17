@@ -53,7 +53,7 @@ export function ProcessFull() {
             className="inline-flex items-center gap-3 bg-green-500 hover:bg-green-600 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-all hover:shadow-lg"
           >
             <MessageCircle size={22} />
-            Pokreni proces – WhatsApp
+            Pokreni proces WhatsApp
           </a>
         </div>
       </div>

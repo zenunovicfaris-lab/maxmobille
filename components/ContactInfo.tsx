@@ -24,7 +24,7 @@ export function ContactInfo() {
           </div>
           <div className="text-green-600 font-medium">{BRAND.harun.phone}</div>
           <div className="text-gray-500 text-xs mt-0.5">
-            Najbrži odgovor – tipično &lt;2h
+            Najbrži odgovor tipično &lt;2h
           </div>
         </div>
       </a>
@@ -65,7 +65,7 @@ export function ContactInfo() {
         </div>
         <div className="flex items-start gap-3 text-sm text-gray-600">
           <Clock size={16} className="text-blue-500 mt-0.5 flex-shrink-0" />
-          <span>Pon – Sub: 09:00 – 18:00 (Ellen u Kini: dostupna 24/7)</span>
+          <span>Pon Sub: 09:00 18:00 (Ellen u Kini: dostupna 24/7)</span>
         </div>
       </div>
     </div>

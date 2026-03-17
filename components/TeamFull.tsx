@@ -14,7 +14,7 @@ const TEAM_FULL = [
     phone: BRAND.harun.phone,
     whatsapp: BRAND.harun.whatsapp,
     email: BRAND.email,
-    bio: "Harun je osnivač MaxMobille-a i jedini kontakt na Balkan strani. Sa iskustvom u međunarodnoj trgovini i dubokim razumijevanjem kineskog tržišta, vodi svaki projekt osobno – od prvog upita do finalne isporuke. Dostupan je svaki dan za konzultacije bez obaveza.",
+    bio: "Harun je osnivač MaxMobille-a i jedini kontakt na Balkan strani. Sa iskustvom u međunarodnoj trgovini i dubokim razumijevanjem kineskog tržišta, vodi svaki projekt osobno od prvog upita do finalne isporuke. Dostupan je svaki dan za konzultacije bez obaveza.",
     skills: ["Pregovaranje", "Logistika", "Carinska administracija", "Koordinacija"],
     avatar: "H",
     color: "bg-blue-700",
@@ -59,7 +59,7 @@ function MemberAvatar({
     <div className="w-20 h-20 rounded-2xl overflow-hidden flex-shrink-0 ring-4 ring-blue-100">
       <Image
         src={image}
-        alt={`${name} – MaxMobille tim`}
+        alt={`${name} MaxMobille tim`}
         width={80}
         height={80}
         className="object-cover w-full h-full"
@@ -83,7 +83,7 @@ export function TeamFull() {
               transition={{ delay: index * 0.2, duration: 0.6 }}
               className="bg-gray-50 rounded-2xl p-8 border border-gray-100"
             >
-              {/* Avatar – photo or letter fallback */}
+              {/* Avatar photo or letter fallback */}
               <div className="flex items-start gap-5 mb-6">
                 <MemberAvatar
                   image={member.image}
