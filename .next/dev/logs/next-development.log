@@ -1,12 +1,19 @@
-[00:00:00.992] Server  LOG     
-[00:00:00.992] Server  LOG       We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
-[00:00:00.993] Server  LOG       The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
-
-[00:00:00.993] Server  LOG       	- include was updated to add '.next/dev/types/**/*.ts'
-[00:00:00.993] Server  LOG     
-[00:00:00.993] Server  LOG       The following mandatory changes were made to your tsconfig.json:
-
-[00:00:00.993] Server  LOG       	- jsx was set to react-jsx (next.js uses the React automatic runtime)
-[00:00:00.993] Server  LOG     
-[00:00:01.131] Server  LOG     ✓ Ready in 859ms
-[00:00:07.267] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:00.986] Server  LOG     ✓ Ready in 712ms
+[00:00:03.287] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:28.965] Server  LOG     ✓ Compiled in 30ms
+[00:00:50.324] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:33.439] Server  LOG     ✓ Compiled in 23ms
+[00:01:36.610] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:18.279] Server  LOG     ✓ Compiled in 141ms
+[00:05:29.101] Server  LOG     ✓ Compiled in 36ms
+[00:07:08.519] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:07:09.026] Browser ERROR   unhandledRejection: Error: controls.start() should only be called after a component has mounted. Consider calling within a useEffect hook.
+[00:07:22.314] Server  LOG     ✓ Compiled in 80ms
+[00:07:24.234] Browser ERROR   unhandledRejection: Error: controls.start() should only be called after a component has mounted. Consider calling within a useEffect hook.
+[00:08:08.640] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:32.399] Server  LOG     ✓ Compiled in 55ms
+[00:09:32.490] Browser ERROR   uncaughtError: ReferenceError: WorldMapSVG is not defined
+[00:09:33.003] Browser ERROR   unhandledRejection: Error: controls.start() should only be called after a component has mounted. Consider calling within a useEffect hook.
+[00:12:28.961] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:12:29.193] Server  LOG     ✓ Compiled in 29ms
+[00:12:29.354] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

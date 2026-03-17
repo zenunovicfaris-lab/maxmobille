@@ -1208,7 +1208,7 @@ function HeroContent() {
                                             lineNumber: 64,
                                             columnNumber: 15
                                         }, this),
-                                        "Kontaktiraj Haruna WhatsApp"
+                                        "Kontaktiraj nas putem WhatsAppa"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/Hero/HeroContent.tsx",
@@ -2282,7 +2282,7 @@ function FooterCTA() {
                                         lineNumber: 31,
                                         columnNumber: 15
                                     }, this),
-                                    "Kontaktiraj Haruna WhatsApp"
+                                    "Kontaktiraj nas"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/FooterCTA.tsx",

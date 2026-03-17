@@ -73,7 +73,7 @@ export function Hero() {
               className="inline-flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-all duration-200 hover:shadow-lg hover:-translate-y-0.5"
             >
               <MessageCircle size={22} />
-              Kontaktiraj Haruna WhatsApp
+              Kontaktiraj nas
             </a>
             <a
               href={`tel:${BRAND.harun.phone}`}
